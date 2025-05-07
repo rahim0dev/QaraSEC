@@ -179,3 +179,7 @@ The developer assumes no liability for misuse of this software.
 ## Q: How do I access the open source code of this Tool?
 - Reaching me via my e-mail address will be enough for this. You can find my e-mail address in the Profile section. In order to obtain the Open Source code, I will ask for a portfolio that proves that you are a Developer.
 
+
+# HOW TO USE?
+
+"Cython" is used for code protection. Download the 2 different files given to you and put them both in the same folder. Then run the "run.py" file and that's it. The program will work. If there are functions that do not work, please leave a comment.
